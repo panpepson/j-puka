@@ -10,3 +10,4 @@ fi
 echo "Pukano do [$1] with$2 :)"
 
 # ab -n 1000 -c 10 https://v.pl
+# https://serverfault.com/questions/408546/how-to-achieve-500k-requests-per-second-on-my-webserver/408649
